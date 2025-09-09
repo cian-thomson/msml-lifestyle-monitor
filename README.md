@@ -1,5 +1,14 @@
 # Multi-sensor Machine Learning Lifestyle Monitor (MSML-Lifestyle-Monitor)
 
+<p align="center">
+  <a href="https://github.com/amaanmujawar/msml-lifestyle-monitor/pulls">
+    <img src="https://img.shields.io/github/issues-pr/amaanmujawar/msml-lifestyle-monitor" alt="PRs">
+  </a>
+  <a href="https://github.com/amaanmujawar/msml-lifestyle-monitor/issues">
+    <img src="https://img.shields.io/github/issues/amaanmujawar/msml-lifestyle-monitor" alt="Issues">
+  </a>
+</p>
+
 A final-year MEng group project focused on developing an integrated, low-cost prototype that uses multiple sensors and machine learning techniques to monitor lifestyle metrics — including physical activity, nutritional intake, and vital health parameters.
 
 ---
